@@ -9,7 +9,3 @@ captures
 local.properties
 xcuserdata
 # Project exclude paths
-/androidApp/
-/gradle/
-/iosApp/
-/shared/
